@@ -74,7 +74,27 @@
 
 ## Overview
 
-- 
+- Technically, space begins at the altitude where an object will remain in orbit, at least temporarily
+- Engineer and physicist, Theodore von Kármán, defined the Kármán Line
+- Kármán Line: the boundary between the sciences of aeronautics and astronautics
+- According to Kármán, space must begin where the atmosphere becomes too thin to support conventional airplane flight
+- This boundary was around 100 km (62 miles)
+- At this altitude, a vehicle would have to travel at velocities about 8 km/s (17,900 miles per hour) in order to generate enough lift to stay aloft
+- At that velocity, lift would become irrelevant and the vehicle would be in orbit (Sellers & Astore)
+- One way we move satellites from smaller to larger orbits is a maneuver called a Hohmann transfer/combined plane change maneuver
+- Low Earth Orbit (LEO) is very close to earth
+- It ends at an altitude of about 2,000 km (1200 miles)
+- But where does it begin? You might guess 100 km, the Kármán Line, but we are going to use 200 km (120 miles)
+- Below that, drag will have a major effect on the orbit
+- Geostationary orbits have inclinations equal to zero degrees, or no tilt relative to the equator
+- Geosynchronous orbits have inclinations other than zero degrees
+- All GEO orbits have periods equal to 24 hours
+- The orbits are at an altitude of approximately 35,780 km (22,300 miles)
+- This allows satellites located on the equator to stay above the same position on Earth at all times
+- The speed of the satellite is exactly that of the earth’s rotation
+- Satellites travel faster at periapsis, or perigee if around the earth
+- Perigee is the closest point in an orbit
+- Satellite travel slower at apoapsis, or apogee if around the earth
 
 ## Credits
 
