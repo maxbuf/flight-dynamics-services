@@ -15,7 +15,7 @@
 - _Vector_ is a quantity that has magnitude and direction (**denoted with an arrow**)
 - _Unit vector_ is a vector with a magnitude of one (determines direction only)
 - Vectors can be resolved into components: $\vec{F} = \vec{F_{x}} + \vec{F_{y}} + \vec{F_{z}}$
-- $\vec{F} = \vec{F_{x}}\widehat{I} + \vec{F_{y}}\widehat{J} + \vec{F_{z}}\widehat{K}$, where $\widehat{I}, \widehat{J}, \widehat{K}$ are the unit vectors in the x-, y-, and z-directions
+- $\vec{F} = F_{x}\widehat{I} + F_{y}\widehat{J} + F_{z}\widehat{K}$, where $\widehat{I}, \widehat{J}, \widehat{K}$ are the unit vectors in the x-, y-, and z-directions
 
 **Vector operations**
 
@@ -24,6 +24,8 @@
 
 **Dot products**
 
+- Dot product of two vectors $\vec{A}$ and $\vec{B}$ multiplies the amoung of $\vec{A}$ that is in the direction of $\vec{B}$ by the magnitude of $\vec{B}$
+- $\vec{A} \cdot \vec{B} = AB cos \theta$
 - 
 
 ## Kepler's and Newton's laws
