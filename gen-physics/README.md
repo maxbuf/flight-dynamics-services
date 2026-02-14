@@ -243,7 +243,13 @@ Net force is the combined effect of all the forces acting on an object. To find 
 
 ---
 
-- 
+- Kinetic energy: Energy due to an object’s motion
+- Objects that aren’t moving in some reference frame have zero kinetic energy in that reference frame
+- An object’s kinetic energy depends on its mass and speed
+- For objects moving at the same speed, the greater the object's mass, the greater its kinetic energy
+- The relationship between mass and kinetic energy for objects with the same speed is linear
+- For objects with the same mass, the greater the object's speed, the greater its kinetic energy
+- The relationship between speed and kinetic energy is nonlinear
 
 ### Potential energy
 ### Conservation of energy
