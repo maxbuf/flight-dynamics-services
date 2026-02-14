@@ -104,7 +104,7 @@ $$Period = 2\pi\sqrt{\frac{a^{3}}{\mu}}seconds$$
   - That force is gravity, and it must be pulling the satellite in the direction of the central body
   - Second, inertia keeps an object from moving without the application of an outside force
   - However, once it is moving, an object has momentum, which is the amount of resistance an object in motion has to changes in its speed or direction of motion
-- **There must be a force on satellites - gravity!**
+- **There must be a force on satellites - gravity (!)**
 - **Momentum is conserved - orbits are constant (in orientation and size)**
 - _Momentum:_ The amount of resistance an object in motion has to changes in its speed or direction of motion
 - There are two types: Linear momentum and angular momentum
@@ -147,22 +147,62 @@ $$‎‎\sum{\vec{F}} = m\vec{a}$$
 
 $$F_{grav} \propto \frac{m_{1}m_{2}}{R^{2}}$$
 
-- Note: $\propto$ is the symbol for _proportional to_; $R$ is the distance between the two object’s centers
+- Note: $\propto$ is the symbol for _proportional to_; $R$ is the distance between the two object’s **centers**
 
 $$F_{grav} = \frac{Gm_{1}m_{2}}{R^{2}}$$
 
 - Where $G$ represents the universal gravitational constant $\left(G = 6.67 \times 10^{-11}\frac{Nm^{2}}{k\hspace{0.1cm}kg^{2}}\right)$
-- We will define a new parameter, the Earth’s gravitational constant, as follows:
+- We will define a new parameter $\mu$, the Earth’s gravitational constant, as follows:
 
-$$\mu_{Earth} = Gm_{Earth} = 398600.5 \frac{km^{3}}{s^{2}}$$
+$$\mu = Gm_{Earth} = 398600.5 \frac{km^{3}}{s^{2}}$$
 
 so, Newton's universal law of gravitation for an object around earth becomes
 
-$$\Rightarrow F_{grav} = \frac{\mu m}{R^{2}}$$
+$$\Rightarrow F_{grav} = \frac{\mu m_{s}}{R^{2}}$$
+
+where $m_{s}$ is the mass of the satellite
 
 ## Laws of conservation
 
-- 
+- If a certain property or quantity remains unchanged for a system, that property or quantity is said to be _conserved_
+
+### Specific angular momentum
+
+- Linear momentum is conserved for a system as follows: $\vec{p} = m \vec{V}$
+- Momentum: Amount of resistance an object in motion has to a change in its speed or direction of motion
+- Angular momentum: Moment of momentum is given by
+
+$$\vec{H} = \vec{R} \times \vec{p} = \vec{R} \times m \vec{V}$$
+
+- $\vec{H}$ is alwats perpendicular to the plane of motion
+- Note: Mass does not matter in free fall; let's define **$\vec{h}$, specific angular momentum** as follows
+
+$$\vec{h} = \frac{\vec{H}}{m} = \vec{R} \times \vec{V}$$
+
+- Implications for satellites in orbit:
+  - A satellite's orbital plane is fixed unless external torque is applied
+  - It takes a lot of energy to change an orbital plane
+
+### Specific mechanical energy
+
+- Total mechanical energy consists of kinetic and potential energy
+- Total mechanic energy is equal to the combination of kinetic and potential energy; those two energies are traded off such that the total energy is constant
+
+$$E = KE + PE$$
+
+where $E$ is the total mechanical energy, $KE$ is kinetic, and $PE$ is potential energy
+
+$$KE = \frac{1}{2} m V^{2} \hspace{0.25cm} \left(\frac{kg \hspace{0.1cm} m^{2}}{s^{2}}\right)$$
+
+$$PE = mgh \hspace{0.25cm} \left(\frac{kg \hspace{0.1cm} m^{2}}{s^{2}}\right)$$
+
+where $m$ is mass, $V$ is velocity, $g$ the gravitational constant ($9.81 \frac{m}{s^{s}}$ for earth), and $h$ the height from datum (_datum_ is where you define $PE = 0$)
+
+- Specific mechanical energy (typically in units of $\frac{km^{2}}{s^{2}}$) is given by
+
+$$\Epsilon = \frac{E}{m}$$
+
+- Specifc kinetic energy: $\frac{V^{2}}{m}$
 
 ## Credits
 
