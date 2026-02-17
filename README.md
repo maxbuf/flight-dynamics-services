@@ -2,7 +2,62 @@
 
 Capturing what I’m actively learning, building, and thinking about while working on Flight Dynamics Services at Loft Orbital.
 
-## L3 (entry-level)
+## Personal development
+
+**Tools**
+
+- [ ] C++
+- [ ] Python
+- [ ] Django
+- [ ] GraphQL
+- [ ] `mypy`
+- [ ] `asyncio`
+- [ ] `pytest`
+- [ ] `graphene`
+- [ ] InfluxDB
+- [ ] NATS
+- [ ] Rust
+- [ ] Vim
+- [ ] Tmux
+- [ ] Common tools/cli utilities
+
+**Systems**
+
+- [ ] System design
+- [ ] Observability (and golden signals)
+- [ ] Backend engineering
+- [ ] Performance/bottleneck optimization
+- [ ] Networking
+- [ ] Databases
+
+**Science**
+
+- [ ] Physics
+- [ ] Orbital mechanics
+- [ ] Astrodynamics
+- [ ] Algebra
+- [ ] Trigonometry
+- [ ] Calculus
+- [ ] Multivariable calculus
+- [ ] Linear algebra
+- [ ] Statistics
+
+**Misc**
+
+- [ ] Onboarding
+- [ ] Problem-solving
+- [ ] How to learn
+- [ ] Figuring things out
+- [ ] Debugging
+- [ ] Getting things done
+- [ ] Code reviews/pull requests
+- [ ] Commit messages
+- [ ] Mentoring
+- [ ] 1:1s
+
+## Expectations
+
+**L3 (entry-level)**
 
 - [ ] Scope: Works on clearly defined tasks with a duration of less than two weeks, requiring minimal guidance on execution
 - [ ] Impact: Responsible for the entire lifecycle of small-to-medium-sized features
@@ -11,7 +66,7 @@ Capturing what I’m actively learning, building, and thinking about while worki
 - [ ] Accountability: Provides on-call support for features they have developed
 - [ ] Mindset: Curious, seeking feedback, and understanding their product's overall strategy
 
-## L4 (mid-level)
+**L4 (mid-level)**
 
 - [ ] Autonomy: Operates with minimal guidance, unblocking themselves, and delivering project tasks on time
 - [ ] Technical design: Moves beyond implementing tickets to designing components and, in some cases, small systems
@@ -19,7 +74,7 @@ Capturing what I’m actively learning, building, and thinking about while worki
 - [ ] Engineering craft: Maintains high code quality, participates in code reviews, improves testing coverage, and aids in debugging
 - [ ] Influence: Mentors junior engineers (L3) and contributes to better engineering practices
 
-## L5 (senior)
+**L5 (senior)**
 
 - [ ] Scope & autonomy: Leads major, complex projects, defining technical requirements and architecture with little supervision
 - [ ] Technical impact: Identifies necessary improvements to systems, codes, and design, often taking responsibility for a specific product or area's health
