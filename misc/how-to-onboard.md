@@ -1,6 +1,83 @@
 # How to onboard
 
-**Rule of thumb:** Expect to be a solid contributor after 3 months. Use your "fresh eyes" to document everything; what seems "normal" to the team now may be a hurdle for the next hire.
+- **Rule of thumb:** Expect to be a solid contributor after 3 months
+- Prioritize up-to-date docs, async Q&A channels, and low-risk tasks
+- Build trust with 1-2 small, dependable PRs daily
+- Adopt "cautious curiosity": Learn via small, observable changes
+- PR Rules: Atomic changes, tests/migrations, feature flags, clear descriptions (trade-offs, issue links)
+
+## Table of contents
+
+- []()
+
+## First 5 days
+
+_Goal: Get the environment running and land your first "hello world" change._
+
+## First 30 days
+## First 90 days
+
+For each, goals and high-level targets
+
+---
+
+## Contribute fast
+## Understand the codebase
+## Understand the system design
+
+---
+
+## Tech stack
+
+**Python**
+
+- [ ] [https://docs.python-guide.org](https://docs.python-guide.org)
+- [ ] 
+
+**Django**
+
+- [ ] [https://roadmap.sh/django](https://roadmap.sh/django)
+- [ ] [https://docs.djangoproject.com/en/6.0/](https://docs.djangoproject.com/en/6.0/)
+- [ ] [https://docs.djangoproject.com/en/6.0/topics/](https://docs.djangoproject.com/en/6.0/topics/)
+- [ ] [https://docs.djangoproject.com/en/6.0/ref/applications/](https://docs.djangoproject.com/en/6.0/ref/applications/)
+- [ ] [https://docs.djangoproject.com/en/6.0/howto/](https://docs.djangoproject.com/en/6.0/howto/)
+- [ ] [https://docs.djangoproject.com/en/6.0/ref/](https://docs.djangoproject.com/en/6.0/ref/)
+
+**asyncio**
+
+- [] []()
+
+**graphene**
+
+- [] []()
+
+**pytest**
+
+- [ ] [https://docs.pytest.org/en/stable/explanation/index.html](https://docs.pytest.org/en/stable/explanation/index.html)
+- [ ] [https://docs.pytest.org/en/stable/how-to/index.html](https://docs.pytest.org/en/stable/how-to/index.html)
+- [ ] [https://programmingmylife.com/2025-02-07-pytest-a-practical-guide.html](https://programmingmylife.com/2025-02-07-pytest-a-practical-guide.html)
+- [ ] [https://realpython.com/pytest-python-testing/](https://realpython.com/pytest-python-testing/)
+- [ ] [https://realpython.com/pytest-python-testing/](https://realpython.com/pytest-python-testing/)
+- [ ] [https://github.com/noahgift/pytest-tips-tricks](https://github.com/noahgift/pytest-tips-tricks)
+- [ ] 
+
+**mypy**
+
+- [ ] [https://mypy.readthedocs.io/en/stable/getting_started.html](https://mypy.readthedocs.io/en/stable/getting_started.html)
+
+**C++**
+
+- [] []()
+
+**NATS**
+
+- [] []()
+
+**InfluxDB**
+
+- [] []()
+
+---
 
 ## First 5 days
 
@@ -61,14 +138,6 @@ _Goal: Increase independence and start contributing to team culture_
   - [ ] 
 
 ---
-
-# Onboarding
-
-- Rule of thumb: Expect to be a solid contributor on a new team after 3 months
-- Great onboarding process has:
-  - Up-to-date wiki on setting up your dev environment
-  - Async support channels (e.g. Q&A groups, eng chat threads) to get small technical questions answered
-  - Backlog of unambiguous, low-risk tasks
 
 ## Example "30/60/90"
 
@@ -738,20 +807,6 @@ Find someone on the team: Ask for 30 minutes with them (ask manager for initial 
 - Do you leave work unfinished?
 - Have you identified and proposed in a compelling way ways to improve our process/business?
 - Do your day to day work and exceed expectations
-
----
-
-- Rule of thumb: Expect solid contributions after 3 months
-- Prioritize up-to-date docs, async Q&A channels, and low-risk tasks
-- Adopt "cautious curiosity": Learn via small, observable changes
-- Build trust with 1-2 dependable PRs daily
-
-## Principles
-
-- Mindset: Fresh eyes spot issues; note everything (mannerism, debt hotspots)
-- Habits: Weekly 1hr note review (e.g., Mondays); living doc for rewrites/ideas
-- PR Rules: Atomic changes, tests/migrations, feature flags, clear descriptions (trade-offs, issue links)
-- Avoid Pitfalls: No blind refactors (mind Chesterton's Fence); always test/CI; no big changes without rollout plans
 
 ## First 30 days
 
