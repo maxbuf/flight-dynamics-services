@@ -45,6 +45,8 @@ Note:
 
 - Abbreviate "row i" by $\rho_{i}$ (this is the Greek letter rho, pronounced aloud as “row”)
 - The point of Gauss's Method is to use the elementary reduction operations to set up back-substitution
+- Gauss’s Method uses the _row operations_ (elementary reduction operations) to set a system up for
+back substitution
 
 **(_Definition_)** In each row of a system, the first variable with a nonzero coefficient is the row's leading variable. A system is in _echelon form_ if each leading variable is to the right of the leading variable in the row above it, except for the leading variable in the first row, and any rows with all-zero coefficients are at the bottom.
 
